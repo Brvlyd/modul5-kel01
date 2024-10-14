@@ -22,7 +22,6 @@ p {
     height: 120px;
     border-radius: 12px;
 }
-
 .description {
     display: flex;
     padding-left: 20px;
@@ -62,6 +61,7 @@ p {
 }
 
 @media (max-width: 768px) {
+
     .card {
         flex-direction: column;
         padding-left: 0;
@@ -92,4 +92,3 @@ p {
         font-size: 10px;
     }
 }
- 
